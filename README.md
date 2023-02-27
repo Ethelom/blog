@@ -9,7 +9,7 @@ To better illustrate this, take a glance below:
 
 | ![row_and_column_major_order](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Row_and_column_major_order.svg/360px-Row_and_column_major_order.svg.png) | 
 |:--:| 
-| *Some capture that I will edit later on* |
+| *Since a 2D array should be stored in linear storage we need a technique to flatten the array. Starting from the first element of the array (a<sub>11</sub>) simply follow the red/blue arrow each time to see the sequence in which elements are stored in RAM* |
 
 ## Memory Contiguity
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/contiguous), contiguous means:
