@@ -7,8 +7,9 @@ In row-major order, the consecutive elements of a row reside next to each other,
 
 To better illustrate this, take a glance below:
 
-![row_and_column_major_order](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Row_and_column_major_order.svg/360px-Row_and_column_major_order.svg.png){:.centered}
-
+| ![row_and_column_major_order](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Row_and_column_major_order.svg/360px-Row_and_column_major_order.svg.png) | 
+|:--:| 
+| *Some capture that I will edit later on* |
 
 ## Memory Contiguity
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/contiguous), contiguous means:
