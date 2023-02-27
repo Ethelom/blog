@@ -15,3 +15,11 @@ To better illustrate this, take a glance below:
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/contiguous), contiguous means:
 
 > being in actual contact / touching or connected throughout in an **unbroken** sequence
+
+
+```py
+# example python code
+import pandas as pd
+df = pd.DataFrame(...)
+```
+
